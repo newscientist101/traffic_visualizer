@@ -83,13 +83,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
         function style(feature) {
             const value = getProvinceValue(feature.properties.shapeName, 0);
+            const fillOpacity = value === 0 ? 0 : 0.7;
             return {
                 fillColor: getGradientColor(value),
                 weight: 2,
                 opacity: 1,
                 color: 'white',
                 dashArray: '3',
-                fillOpacity: 0.7
+                fillOpacity: fillOpacity
             };
         }
 
@@ -122,8 +123,10 @@ document.addEventListener('DOMContentLoaded', function () {
             geojsonLayer.eachLayer((layer) => {
                 const geoJsonProvinceName = layer.feature.properties.shapeName;
                 const value = getProvinceValue(geoJsonProvinceName, timestampIndex);
+                const fillOpacity = value === 0 ? 0 : 0.7;
                 layer.setStyle({
-                    fillColor: getGradientColor(value)
+                    fillColor: getGradientColor(value),
+                    fillOpacity: fillOpacity
                 });
             });
 

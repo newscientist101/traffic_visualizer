@@ -110,8 +110,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
             for (let i = 0; i < grades.length; i++) {
                 div.innerHTML +=
-                    '<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +
-                    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+                    '<div class="legend-item">' +
+                        '<i style="background:' + getColor(grades[i] + 1) + '"></i>' +
+                        '<span>' + grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] : '+') + '</span>' +
+                    '</div>';
             }
 
             return div;

@@ -57,9 +57,19 @@ document.addEventListener('DOMContentLoaded', function () {
         };
 
         function getGradientColor(value) {
-            const r = Math.round(255 * (1 - value / 100));
-            const g = Math.round(255 * (value / 100));
-            return `rgb(${r},${g},0)`;
+            let r, g, b;
+            if (value <= 50) {
+                const ratio = value / 50;
+                r = 255;
+                g = 255;
+                b = Math.round(255 * (1 - ratio));
+            } else {
+                const ratio = (value - 50) / 50;
+                r = Math.round(255 * (1 - ratio));
+                g = Math.round(255 - (255 - 128) * ratio);
+                b = 0;
+            }
+            return `rgb(${r},${g},${b})`;
         }
 
         function getProvinceValue(geoJsonProvinceName, timestampIndex) {

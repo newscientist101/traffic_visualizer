@@ -1,0 +1,1670 @@
+Browser Console: Successfully loaded GeoJSON data: {type: FeatureCollection, crs: Object, features: Array(32)}
+Browser Console: Successfully loaded timeseries data: {success: true, errors: Array(0), result: Object}
+Browser Console: Styling Mazandaran (mapped to Mazandaran Province) with initial value: 1.820315
+Browser Console: Styling North Khorasan (mapped to North Khorasan Province) with initial value: 0
+Browser Console: Styling Kerman (mapped to Kerman Province) with initial value: 0.15405
+Browser Console: Styling Ilam (mapped to Ilam Province) with initial value: 0
+Browser Console: Styling Lorestan (mapped to Lorestan Province) with initial value: 0
+Browser Console: Styling Markazi (mapped to Markazi Province) with initial value: 0
+Browser Console: Styling Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) with initial value: 0
+Browser Console: Styling Kermanshah (mapped to Kermanshah Province) with initial value: 0
+Browser Console: Styling Hamadan (mapped to Hamadan Province) with initial value: 0.14081
+Browser Console: Styling Qazvin (mapped to Qazvin Province) with initial value: 0.113451
+Browser Console: Styling Gilan (mapped to Gilan Province) with initial value: 0.59122
+Browser Console: Styling Zanjan (mapped to Zanjan Province) with initial value: 0.372424
+Browser Console: Styling Semnan (mapped to Semnan Province) with initial value: 0.277119
+Browser Console: Styling Isfahan (mapped to Isfahan Province) with initial value: 7.433083
+Browser Console: Styling Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) with initial value: 0
+Browser Console: Styling Kurdistan (mapped to Kurdistan Province) with initial value: 0
+Browser Console: Styling West Azerbaijan (mapped to West Azerbaijan Province) with initial value: 0.30739
+Browser Console: Styling Fars (mapped to Fars Province) with initial value: 8.2399
+Browser Console: Styling Bushehr (mapped to Bushehr Province) with initial value: 0.220903
+Browser Console: Styling Ardabil (mapped to Ardabil Province) with initial value: 0
+Browser Console: Styling Golestan (mapped to Golestan Province) with initial value: 0
+Browser Console: Styling Razavi Khorasan (mapped to Razavi Khorasan Province) with initial value: 15.005882
+Browser Console: Styling South Khorasan (mapped to South Khorasan Province) with initial value: 0
+Browser Console: Styling Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) with initial value: 0
+Browser Console: Styling Qom (mapped to Qom Province) with initial value: 0.597881
+Browser Console: Styling Alborz (mapped to Alborz Province) with initial value: 3.626473
+Browser Console: Styling East Azerbaijan (mapped to East Azerbaijan Province) with initial value: 9.600281
+Browser Console: Styling Yazd (mapped to Yazd Province) with initial value: 0.130658
+Browser Console: Styling Hormozgan (mapped to Hormozgan Province) with initial value: 0.235669
+Browser Console: Styling Khuzestan (mapped to Khuzestan Province) with initial value: 4.600526
+Browser Console: Styling Tehran (mapped to Tehran Province) with initial value: 45.960064
+Browser Console: Styling Mazandaran (mapped to Mazandaran Province) with initial value: 1.820315
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 1 with value: 1.795455
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 1 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 1 with value: 0.140016
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 1 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 1 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 1 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 1 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 1 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 1 with value: 0.115688
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 1 with value: 0.086508
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 1 with value: 0.587346
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 1 with value: 0.34693
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 1 with value: 0.231773
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 1 with value: 7.120206
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 1 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 1 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 1 with value: 0.29103
+Browser Console: Updating Fars (mapped to Fars Province) at index 1 with value: 8.195719
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 1 with value: 0.220791
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 1 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 1 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 1 with value: 15.928818
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 1 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 1 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 1 with value: 0.583893
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 1 with value: 3.522076
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 1 with value: 9.30079
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 1 with value: 0.131379
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 1 with value: 0.290002
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 1 with value: 4.927173
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 1 with value: 45.656494
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 1 with value: 1.795455
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 2 with value: 1.791536
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 2 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 2 with value: 0.137317
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 2 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 2 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 2 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 2 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 2 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 2 with value: 0.103308
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 2 with value: 0.115864
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 2 with value: 0.503673
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 2 with value: 0.305491
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 2 with value: 0.202145
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 2 with value: 6.993824
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 2 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 2 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 2 with value: 0.332134
+Browser Console: Updating Fars (mapped to Fars Province) at index 2 with value: 8.150034
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 2 with value: 0.209358
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 2 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 2 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 2 with value: 17.040242
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 2 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 2 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 2 with value: 0.492885
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 2 with value: 3.256755
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 2 with value: 9.127852
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 2 with value: 0.11626
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 2 with value: 0.26713
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 2 with value: 4.922749
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 2 with value: 45.471191
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 2 with value: 1.791536
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 3 with value: 1.965569
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 3 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 3 with value: 0.168071
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 3 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 3 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 3 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 3 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 3 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 3 with value: 0.091466
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 3 with value: 0.106788
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 3 with value: 0.508822
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 3 with value: 0.321493
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 3 with value: 0.252982
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 3 with value: 7.437335
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 3 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 3 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 3 with value: 0.320965
+Browser Console: Updating Fars (mapped to Fars Province) at index 3 with value: 8.771499
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 3 with value: 0.216938
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 3 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 3 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 3 with value: 18.5025
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 3 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 3 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 3 with value: 0.475924
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 3 with value: 2.908871
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 3 with value: 8.690598
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 3 with value: 0.141893
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 3 with value: 0.321984
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 3 with value: 4.265116
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 3 with value: 44.094907
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 3 with value: 1.965569
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 4 with value: 2.133332
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 4 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 4 with value: 0.214295
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 4 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 4 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 4 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 4 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 4 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 4 with value: 0.10752
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 4 with value: 0.146743
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 4 with value: 0.497385
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 4 with value: 0.315543
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 4 with value: 0.3652
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 4 with value: 7.91568
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 4 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 4 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 4 with value: 0.286544
+Browser Console: Updating Fars (mapped to Fars Province) at index 4 with value: 9.307074
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 4 with value: 0.274729
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 4 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 4 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 4 with value: 17.53057
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 4 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 4 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 4 with value: 0.513477
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 4 with value: 2.743265
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 4 with value: 8.378556
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 4 with value: 0.175568
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 4 with value: 0.341594
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 4 with value: 3.852645
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 4 with value: 44.364029
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 4 with value: 2.133332
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 5 with value: 2.288959
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 5 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 5 with value: 0.232506
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 5 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 5 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 5 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 5 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 5 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 5 with value: 0.146976
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 5 with value: 0.145584
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 5 with value: 0.517633
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 5 with value: 0.351834
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 5 with value: 0.446499
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 5 with value: 8.11222
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 5 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 5 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 5 with value: 0.299348
+Browser Console: Updating Fars (mapped to Fars Province) at index 5 with value: 9.130748
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 5 with value: 0.287653
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 5 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 5 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 5 with value: 15.858259
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 5 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 5 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 5 with value: 0.54365
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 5 with value: 2.837906
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 5 with value: 9.121433
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 5 with value: 0.208825
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 5 with value: 0.300905
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 5 with value: 3.500382
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 5 with value: 45.006469
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 5 with value: 2.288959
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 6 with value: 2.232542
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 6 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 6 with value: 0.213592
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 6 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 6 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 6 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 6 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 6 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 6 with value: 0.174438
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 6 with value: 0.155039
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 6 with value: 0.541636
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 6 with value: 0.409297
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 6 with value: 0.431986
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 6 with value: 8.062467
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 6 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 6 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 6 with value: 0.32158
+Browser Console: Updating Fars (mapped to Fars Province) at index 6 with value: 8.523962
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 6 with value: 0.250932
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 6 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 6 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 6 with value: 15.604216
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 6 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 6 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 6 with value: 0.540173
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 6 with value: 2.963922
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 6 with value: 9.705803
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 6 with value: 0.199098
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 6 with value: 0.261313
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 6 with value: 3.419036
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 6 with value: 45.290013
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 6 with value: 2.232542
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 7 with value: 2.274614
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 7 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 7 with value: 0.228668
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 7 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 7 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 7 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 7 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 7 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 7 with value: 0.174913
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 7 with value: 0.173303
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 7 with value: 0.527476
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 7 with value: 0.447978
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 7 with value: 0.44383
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 7 with value: 7.791795
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 7 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 7 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 7 with value: 0.317137
+Browser Console: Updating Fars (mapped to Fars Province) at index 7 with value: 8.439862
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 7 with value: 0.244809
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 7 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 7 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 7 with value: 15.51812
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 7 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 7 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 7 with value: 0.542831
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 7 with value: 3.152382
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 7 with value: 9.513163
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 7 with value: 0.207883
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 7 with value: 0.250717
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 7 with value: 3.413525
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 7 with value: 45.623145
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 7 with value: 2.274614
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 8 with value: 2.373822
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 8 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 8 with value: 0.239099
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 8 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 8 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 8 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 8 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 8 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 8 with value: 0.192165
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 8 with value: 0.185151
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 8 with value: 0.533413
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 8 with value: 0.504886
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 8 with value: 0.460198
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 8 with value: 7.866159
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 8 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 8 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 8 with value: 0.314007
+Browser Console: Updating Fars (mapped to Fars Province) at index 8 with value: 8.592482
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 8 with value: 0.261937
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 8 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 8 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 8 with value: 13.495355
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 8 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 8 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 8 with value: 0.612877
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 8 with value: 3.36418
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 8 with value: 9.247052
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 8 with value: 0.211301
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 8 with value: 0.279834
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 8 with value: 3.446761
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 8 with value: 47.100605
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 8 with value: 2.373822
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 9 with value: 2.517878
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 9 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 9 with value: 0.246855
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 9 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 9 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 9 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 9 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 9 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 9 with value: 0.219077
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 9 with value: 0.201667
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 9 with value: 0.475563
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 9 with value: 0.535552
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 9 with value: 0.511988
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 9 with value: 7.885276
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 9 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 9 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 9 with value: 0.291067
+Browser Console: Updating Fars (mapped to Fars Province) at index 9 with value: 8.451038
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 9 with value: 0.313665
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 9 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 9 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 9 with value: 12.533503
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 9 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 9 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 9 with value: 0.693862
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 9 with value: 3.532246
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 9 with value: 8.200227
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 9 with value: 0.206773
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 9 with value: 0.452176
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 9 with value: 3.106166
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 9 with value: 48.94087
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 9 with value: 2.517878
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 10 with value: 2.535022
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 10 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 10 with value: 0.258808
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 10 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 10 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 10 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 10 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 10 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 10 with value: 0.2227
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 10 with value: 0.208601
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 10 with value: 0.45004
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 10 with value: 0.552693
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 10 with value: 0.549568
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 10 with value: 8.225724
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 10 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 10 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 10 with value: 0.28413
+Browser Console: Updating Fars (mapped to Fars Province) at index 10 with value: 8.917305
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 10 with value: 0.334511
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 10 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 10 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 10 with value: 12.10595
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 10 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 10 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 10 with value: 0.697332
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 10 with value: 3.54227
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 10 with value: 7.698922
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 10 with value: 0.203453
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 10 with value: 0.54722
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 10 with value: 3.03319
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 10 with value: 48.919225
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 10 with value: 2.535022
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 11 with value: 2.394864
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 11 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 11 with value: 0.270553
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 11 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 11 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 11 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 11 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 11 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 11 with value: 0.223459
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 11 with value: 0.200864
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 11 with value: 0.453461
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 11 with value: 0.538484
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 11 with value: 0.551121
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 11 with value: 8.59874
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 11 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 11 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 11 with value: 0.285474
+Browser Console: Updating Fars (mapped to Fars Province) at index 11 with value: 9.287576
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 11 with value: 0.329259
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 11 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 11 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 11 with value: 11.462948
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 11 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 11 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 11 with value: 0.698788
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 11 with value: 3.3532
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 11 with value: 7.891994
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 11 with value: 0.225897
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 11 with value: 0.550912
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 11 with value: 3.200904
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 11 with value: 48.743043
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 11 with value: 2.394864
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 12 with value: 2.033544
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 12 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 12 with value: 0.260932
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 12 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 12 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 12 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 12 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 12 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 12 with value: 0.214828
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 12 with value: 0.203972
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 12 with value: 0.479356
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 12 with value: 0.497345
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 12 with value: 0.50861
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 12 with value: 9.178784
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 12 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 12 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 12 with value: 0.29061
+Browser Console: Updating Fars (mapped to Fars Province) at index 12 with value: 9.386957
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 12 with value: 0.302619
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 12 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 12 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 12 with value: 11.171411
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 12 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 12 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 12 with value: 0.684424
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 12 with value: 3.261031
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 12 with value: 8.217378
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 12 with value: 0.235001
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 12 with value: 0.453069
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 12 with value: 3.304705
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 12 with value: 48.636399
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 12 with value: 2.033544
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 13 with value: 2.128688
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 13 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 13 with value: 0.244309
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 13 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 13 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 13 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 13 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 13 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 13 with value: 0.208961
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 13 with value: 0.21899
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 13 with value: 0.476676
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 13 with value: 0.513673
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 13 with value: 0.550429
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 13 with value: 9.126473
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 13 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 13 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 13 with value: 0.291864
+Browser Console: Updating Fars (mapped to Fars Province) at index 13 with value: 9.13412
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 13 with value: 0.276104
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 13 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 13 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 13 with value: 11.208194
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 13 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 13 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 13 with value: 0.699561
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 13 with value: 3.462597
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 13 with value: 8.259613
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 13 with value: 0.239418
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 13 with value: 0.462148
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 13 with value: 3.310181
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 13 with value: 48.505292
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 13 with value: 2.128688
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 14 with value: 2.168254
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 14 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 14 with value: 0.250577
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 14 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 14 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 14 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 14 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 14 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 14 with value: 0.205522
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 14 with value: 0.215171
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 14 with value: 0.476195
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 14 with value: 0.508573
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 14 with value: 0.520402
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 14 with value: 8.896161
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 14 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 14 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 14 with value: 0.289051
+Browser Console: Updating Fars (mapped to Fars Province) at index 14 with value: 8.799902
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 14 with value: 0.293767
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 14 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 14 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 14 with value: 12.006776
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 14 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 14 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 14 with value: 0.684294
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 14 with value: 3.430728
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 14 with value: 8.258534
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 14 with value: 0.242577
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 14 with value: 0.441834
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 14 with value: 3.393715
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 14 with value: 48.203141
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 14 with value: 2.168254
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 15 with value: 2.204555
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 15 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 15 with value: 0.23722
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 15 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 15 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 15 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 15 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 15 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 15 with value: 0.201777
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 15 with value: 0.194105
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 15 with value: 0.491345
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 15 with value: 0.492974
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 15 with value: 0.481295
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 15 with value: 8.42642
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 15 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 15 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 15 with value: 0.312828
+Browser Console: Updating Fars (mapped to Fars Province) at index 15 with value: 8.838569
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 15 with value: 0.27844
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 15 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 15 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 15 with value: 13.185926
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 15 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 15 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 15 with value: 0.652077
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 15 with value: 3.340596
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 15 with value: 8.405584
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 15 with value: 0.213773
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 15 with value: 0.465496
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 15 with value: 3.39258
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 15 with value: 47.433663
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 15 with value: 2.204555
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 16 with value: 2.232446
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 16 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 16 with value: 0.238617
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 16 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 16 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 16 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 16 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 16 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 16 with value: 0.217554
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 16 with value: 0.198124
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 16 with value: 0.498094
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 16 with value: 0.503412
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 16 with value: 0.455653
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 16 with value: 8.542334
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 16 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 16 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 16 with value: 0.308471
+Browser Console: Updating Fars (mapped to Fars Province) at index 16 with value: 8.920122
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 16 with value: 0.263055
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 16 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 16 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 16 with value: 13.14184
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 16 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 16 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 16 with value: 0.629314
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 16 with value: 3.304342
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 16 with value: 8.608492
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 16 with value: 0.194042
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 16 with value: 0.46167
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 16 with value: 3.411335
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 16 with value: 47.094476
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 16 with value: 2.232446
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 17 with value: 2.217581
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 17 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 17 with value: 0.245296
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 17 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 17 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 17 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 17 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 17 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 17 with value: 0.211807
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 17 with value: 0.203885
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 17 with value: 0.511457
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 17 with value: 0.48121
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 17 with value: 0.447232
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 17 with value: 8.469078
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 17 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 17 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 17 with value: 0.309132
+Browser Console: Updating Fars (mapped to Fars Province) at index 17 with value: 8.966284
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 17 with value: 0.262661
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 17 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 17 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 17 with value: 13.297835
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 17 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 17 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 17 with value: 0.617256
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 17 with value: 3.329623
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 17 with value: 8.785101
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 17 with value: 0.190644
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 17 with value: 0.443197
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 17 with value: 3.419085
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 17 with value: 46.800405
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 17 with value: 2.217581
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 18 with value: 2.184868
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 18 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 18 with value: 0.249704
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 18 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 18 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 18 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 18 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 18 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 18 with value: 0.205951
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 18 with value: 0.201721
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 18 with value: 0.518558
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 18 with value: 0.499825
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 18 with value: 0.43527
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 18 with value: 8.500164
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 18 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 18 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 18 with value: 0.320482
+Browser Console: Updating Fars (mapped to Fars Province) at index 18 with value: 9.031942
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 18 with value: 0.254006
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 18 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 18 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 18 with value: 13.257473
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 18 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 18 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 18 with value: 0.608942
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 18 with value: 3.356545
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 18 with value: 8.869819
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 18 with value: 0.187053
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 18 with value: 0.442638
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 18 with value: 3.419193
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 18 with value: 46.666583
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 18 with value: 2.184868
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 19 with value: 2.162481
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 19 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 19 with value: 0.244391
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 19 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 19 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 19 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 19 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 19 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 19 with value: 0.194033
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 19 with value: 0.187417
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 19 with value: 0.516153
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 19 with value: 0.491344
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 19 with value: 0.418559
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 19 with value: 8.419648
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 19 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 19 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 19 with value: 0.314706
+Browser Console: Updating Fars (mapped to Fars Province) at index 19 with value: 8.740156
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 19 with value: 0.23459
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 19 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 19 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 19 with value: 13.681762
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 19 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 19 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 19 with value: 0.608251
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 19 with value: 3.35988
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 19 with value: 9.083713
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 19 with value: 0.184816
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 19 with value: 0.409926
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 19 with value: 3.446564
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 19 with value: 46.564565
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 19 with value: 2.162481
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 20 with value: 2.176415
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 20 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 20 with value: 0.237663
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 20 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 20 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 20 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 20 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 20 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 20 with value: 0.19413
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 20 with value: 0.1938
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 20 with value: 0.484766
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 20 with value: 0.514805
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 20 with value: 0.450353
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 20 with value: 8.18521
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 20 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 20 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 20 with value: 0.284945
+Browser Console: Updating Fars (mapped to Fars Province) at index 20 with value: 8.519486
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 20 with value: 0.245097
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 20 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 20 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 20 with value: 15.004495
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 20 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 20 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 20 with value: 0.625907
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 20 with value: 3.642799
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 20 with value: 7.703938
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 20 with value: 0.187702
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 20 with value: 0.390371
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 20 with value: 3.207701
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 20 with value: 47.022142
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 20 with value: 2.176415
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 21 with value: 2.214098
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 21 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 21 with value: 0.239601
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 21 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 21 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 21 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 21 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 21 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 21 with value: 0.226272
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 21 with value: 0.21296
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 21 with value: 0.486781
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 21 with value: 0.557454
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 21 with value: 0.516772
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 21 with value: 8.130865
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 21 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 21 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 21 with value: 0.283573
+Browser Console: Updating Fars (mapped to Fars Province) at index 21 with value: 8.404567
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 21 with value: 0.257851
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 21 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 21 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 21 with value: 14.375599
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 21 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 21 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 21 with value: 0.743295
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 21 with value: 3.940336
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 21 with value: 6.887085
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 21 with value: 0.207795
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 21 with value: 0.390111
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 21 with value: 2.963871
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 21 with value: 48.171795
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 21 with value: 2.214098
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 22 with value: 2.147055
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 22 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 22 with value: 0.217991
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 22 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 22 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 22 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 22 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 22 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 22 with value: 0.221216
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 22 with value: 0.211401
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 22 with value: 0.493822
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 22 with value: 0.564561
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 22 with value: 0.493252
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 22 with value: 7.893961
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 22 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 22 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 22 with value: 0.295998
+Browser Console: Updating Fars (mapped to Fars Province) at index 22 with value: 8.669641
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 22 with value: 0.253159
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 22 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 22 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 22 with value: 12.846847
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 22 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 22 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 22 with value: 0.788496
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 22 with value: 3.971485
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 22 with value: 7.027165
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 22 with value: 0.193104
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 22 with value: 0.413192
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 22 with value: 3.227839
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 22 with value: 49.297783
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 22 with value: 2.147055
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 23 with value: 1.946471
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 23 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 23 with value: 0.1985
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 23 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 23 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 23 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 23 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 23 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 23 with value: 0.191765
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 23 with value: 0.16795
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 23 with value: 0.507442
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 23 with value: 0.494724
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 23 with value: 0.39218
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 23 with value: 8.022597
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 23 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 23 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 23 with value: 0.285317
+Browser Console: Updating Fars (mapped to Fars Province) at index 23 with value: 8.94947
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 23 with value: 0.249863
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 23 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 23 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 23 with value: 13.153092
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 23 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 23 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 23 with value: 0.737504
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 23 with value: 3.810667
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 23 with value: 7.214207
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 23 with value: 0.171076
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 23 with value: 0.396537
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 23 with value: 3.660357
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 23 with value: 48.718477
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 23 with value: 1.946471
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 24 with value: 1.803179
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 24 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 24 with value: 0.169553
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 24 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 24 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 24 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 24 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 24 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 24 with value: 0.148348
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 24 with value: 0.127969
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 24 with value: 0.515958
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 24 with value: 0.41822
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 24 with value: 0.301821
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 24 with value: 8.399588
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 24 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 24 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 24 with value: 0.279282
+Browser Console: Updating Fars (mapped to Fars Province) at index 24 with value: 9.146933
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 24 with value: 0.220719
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 24 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 24 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 24 with value: 14.428891
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 24 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 24 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 24 with value: 0.660884
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 24 with value: 3.624429
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 24 with value: 7.418218
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 24 with value: 0.149568
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 24 with value: 0.383885
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 24 with value: 4.212408
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 24 with value: 46.972776
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 24 with value: 1.803179
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 25 with value: 1.701477
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 25 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 25 with value: 0.162291
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 25 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 25 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 25 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 25 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 25 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 25 with value: 0.110603
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 25 with value: 0.113867
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 25 with value: 0.489976
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 25 with value: 0.370029
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 25 with value: 0.264482
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 25 with value: 8.19969
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 25 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 25 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 25 with value: 0.290241
+Browser Console: Updating Fars (mapped to Fars Province) at index 25 with value: 9.151375
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 25 with value: 0.220459
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 25 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 25 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 25 with value: 14.8566
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 25 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 25 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 25 with value: 0.570596
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 25 with value: 3.30051
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 25 with value: 7.948391
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 25 with value: 0.127331
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 25 with value: 0.417672
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 25 with value: 4.811953
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 25 with value: 46.354735
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 25 with value: 1.701477
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 26 with value: 1.692227
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 26 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 26 with value: 0.15669
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 26 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 26 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 26 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 26 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 26 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 26 with value: 0.102991
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 26 with value: 0.084875
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 26 with value: 0.511838
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 26 with value: 0.34318
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 26 with value: 0.225822
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 26 with value: 8.119956
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 26 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 26 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 26 with value: 0.281884
+Browser Console: Updating Fars (mapped to Fars Province) at index 26 with value: 9.111164
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 26 with value: 0.218721
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 26 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 26 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 26 with value: 15.402512
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 26 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 26 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 26 with value: 0.536258
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 26 with value: 3.08846
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 26 with value: 8.162027
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 26 with value: 0.127498
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 26 with value: 0.45726
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 26 with value: 4.992931
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 26 with value: 45.914936
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 26 with value: 1.692227
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 27 with value: 1.696725
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 27 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 27 with value: 0.177601
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 27 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 27 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 27 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 27 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 27 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 27 with value: 0.107447
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 27 with value: 0.084145
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 27 with value: 0.450718
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 27 with value: 0.300419
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 27 with value: 0.23823
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 27 with value: 8.587738
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 27 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 27 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 27 with value: 0.262032
+Browser Console: Updating Fars (mapped to Fars Province) at index 27 with value: 9.292933
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 27 with value: 0.254222
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 27 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 27 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 27 with value: 17.023879
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 27 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 27 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 27 with value: 0.459423
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 27 with value: 2.802569
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 27 with value: 7.902843
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 27 with value: 0.148264
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 27 with value: 0.483573
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 27 with value: 4.419346
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 27 with value: 44.867166
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 27 with value: 1.696725
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 28 with value: 1.69323
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 28 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 28 with value: 0.204859
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 28 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 28 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 28 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 28 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 28 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 28 with value: 0.103431
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 28 with value: 0.099231
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 28 with value: 0.465534
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 28 with value: 0.294214
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 28 with value: 0.299387
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 28 with value: 9.147623
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 28 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 28 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 28 with value: 0.244128
+Browser Console: Updating Fars (mapped to Fars Province) at index 28 with value: 9.722922
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 28 with value: 0.286882
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 28 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 28 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 28 with value: 16.655942
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 28 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 28 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 28 with value: 0.508569
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 28 with value: 2.541291
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 28 with value: 7.519336
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 28 with value: 0.198481
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 28 with value: 0.47649
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 28 with value: 3.972127
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 28 with value: 45.078006
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 28 with value: 1.69323
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 29 with value: 1.888278
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 29 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 29 with value: 0.219309
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 29 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 29 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 29 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 29 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 29 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 29 with value: 0.152891
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 29 with value: 0.138802
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 29 with value: 0.441639
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 29 with value: 0.33958
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 29 with value: 0.38535
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 29 with value: 9.803085
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 29 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 29 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 29 with value: 0.247864
+Browser Console: Updating Fars (mapped to Fars Province) at index 29 with value: 10.059399
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 29 with value: 0.275891
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 29 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 29 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 29 with value: 14.635914
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 29 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 29 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 29 with value: 0.527669
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 29 with value: 2.718696
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 29 with value: 7.003143
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 29 with value: 0.196619
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 29 with value: 0.460266
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 29 with value: 3.54368
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 29 with value: 46.393342
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 29 with value: 1.888278
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 30 with value: 2.091467
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 30 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 30 with value: 0.23266
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 30 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 30 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 30 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 30 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 30 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 30 with value: 0.189029
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 30 with value: 0.16665
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 30 with value: 0.436047
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 30 with value: 0.396252
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 30 with value: 0.459006
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 30 with value: 10.118544
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 30 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 30 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 30 with value: 0.252899
+Browser Console: Updating Fars (mapped to Fars Province) at index 30 with value: 9.931524
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 30 with value: 0.261166
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 30 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 30 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 30 with value: 13.365738
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 30 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 30 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 30 with value: 0.562135
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 30 with value: 2.900249
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 30 with value: 6.437325
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 30 with value: 0.196163
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 30 with value: 0.449408
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 30 with value: 3.320509
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 30 with value: 47.599315
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 30 with value: 2.091467
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 31 with value: 2.204257
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 31 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 31 with value: 0.243144
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 31 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 31 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 31 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 31 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 31 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 31 with value: 0.212839
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 31 with value: 0.189499
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 31 with value: 0.420852
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 31 with value: 0.470114
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 31 with value: 0.507296
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 31 with value: 9.767917
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 31 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 31 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 31 with value: 0.256131
+Browser Console: Updating Fars (mapped to Fars Province) at index 31 with value: 9.707646
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 31 with value: 0.279978
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 31 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 31 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 31 with value: 12.817407
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 31 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 31 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 31 with value: 0.622077
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 31 with value: 3.209304
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 31 with value: 6.306934
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 31 with value: 0.217619
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 31 with value: 0.454025
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 31 with value: 3.043195
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 31 with value: 48.346673
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 31 with value: 2.204257
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 32 with value: 2.301099
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 32 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 32 with value: 0.254063
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 32 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 32 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 32 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 32 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 32 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 32 with value: 0.211024
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 32 with value: 0.212587
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 32 with value: 0.429631
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 32 with value: 0.526595
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 32 with value: 0.540615
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 32 with value: 9.451684
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 32 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 32 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 32 with value: 0.263617
+Browser Console: Updating Fars (mapped to Fars Province) at index 32 with value: 9.365794
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 32 with value: 0.294501
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 32 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 32 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 32 with value: 12.733223
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 32 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 32 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 32 with value: 0.667997
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 32 with value: 3.391833
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 32 with value: 6.173598
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 32 with value: 0.220328
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 32 with value: 0.476574
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 32 with value: 2.959075
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 32 with value: 48.775028
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 32 with value: 2.301099
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 33 with value: 2.439827
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 33 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 33 with value: 0.280247
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 33 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 33 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 33 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 33 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 33 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 33 with value: 0.239353
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 33 with value: 0.227778
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 33 with value: 0.406303
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 33 with value: 0.568395
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 33 with value: 0.576173
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 33 with value: 9.316862
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 33 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 33 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 33 with value: 0.261423
+Browser Console: Updating Fars (mapped to Fars Province) at index 33 with value: 9.295979
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 33 with value: 0.313734
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 33 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 33 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 33 with value: 12.679293
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 33 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 33 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 33 with value: 0.744094
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 33 with value: 3.484597
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 33 with value: 5.918315
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 33 with value: 0.225499
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 33 with value: 0.502214
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 33 with value: 2.97842
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 33 with value: 48.742928
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 33 with value: 2.439827
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 34 with value: 2.442296
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 34 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 34 with value: 0.286047
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 34 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 34 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 34 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 34 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 34 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 34 with value: 0.253751
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 34 with value: 0.238242
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 34 with value: 0.421895
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 34 with value: 0.58084
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 34 with value: 0.60502
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 34 with value: 9.37225
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 34 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 34 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 34 with value: 0.267835
+Browser Console: Updating Fars (mapped to Fars Province) at index 34 with value: 9.379693
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 34 with value: 0.319141
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 34 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 34 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 34 with value: 12.440051
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 34 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 34 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 34 with value: 0.814825
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 34 with value: 3.394906
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 34 with value: 6.007775
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 34 with value: 0.223904
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 34 with value: 0.511718
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 34 with value: 2.871182
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 34 with value: 48.759492
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 34 with value: 2.442296
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 35 with value: 2.503421
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 35 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 35 with value: 0.285056
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 35 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 35 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 35 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 35 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 35 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 35 with value: 0.273219
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 35 with value: 0.246233
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 35 with value: 0.404414
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 35 with value: 0.600717
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 35 with value: 0.644824
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 35 with value: 9.56235
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 35 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 35 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 35 with value: 0.257917
+Browser Console: Updating Fars (mapped to Fars Province) at index 35 with value: 9.564885
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 35 with value: 0.327379
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 35 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 35 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 35 with value: 11.847631
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 35 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 35 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 35 with value: 0.803086
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 35 with value: 3.542721
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 35 with value: 5.680517
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 35 with value: 0.228684
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 35 with value: 0.501104
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 35 with value: 2.79474
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 35 with value: 49.138531
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 35 with value: 2.503421
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 36 with value: 2.591423
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 36 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 36 with value: 0.286008
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 36 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 36 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 36 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 36 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 36 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 36 with value: 0.283133
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 36 with value: 0.268395
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 36 with value: 0.377141
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 36 with value: 0.628877
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 36 with value: 0.705907
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 36 with value: 9.765958
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 36 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 36 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 36 with value: 0.25334
+Browser Console: Updating Fars (mapped to Fars Province) at index 36 with value: 9.591033
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 36 with value: 0.338153
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 36 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 36 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 36 with value: 11.37375
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 36 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 36 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 36 with value: 0.854445
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 36 with value: 3.735054
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 36 with value: 5.760362
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 36 with value: 0.238338
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 36 with value: 0.504959
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 36 with value: 2.705076
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 36 with value: 48.96789
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 36 with value: 2.591423
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 37 with value: 3.006021
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 37 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 37 with value: 0.290526
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 37 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 37 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 37 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 37 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 37 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 37 with value: 0.283039
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 37 with value: 0.283383
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 37 with value: 0.330115
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 37 with value: 0.667966
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 37 with value: 0.707053
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 37 with value: 9.912827
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 37 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 37 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 37 with value: 0.264965
+Browser Console: Updating Fars (mapped to Fars Province) at index 37 with value: 9.605774
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 37 with value: 0.30849
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 37 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 37 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 37 with value: 10.203505
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 37 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 37 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 37 with value: 0.917001
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 37 with value: 4.075393
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 37 with value: 5.728895
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 37 with value: 0.244956
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 37 with value: 0.513779
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 37 with value: 2.612767
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 37 with value: 49.296571
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 37 with value: 3.006021
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 38 with value: 3.191599
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 38 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 38 with value: 0.290223
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 38 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 38 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 38 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 38 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 38 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 38 with value: 0.275064
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 38 with value: 0.265741
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 38 with value: 0.32553
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 38 with value: 0.667877
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 38 with value: 0.691507
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 38 with value: 9.960502
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 38 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 38 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 38 with value: 0.273828
+Browser Console: Updating Fars (mapped to Fars Province) at index 38 with value: 9.585628
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 38 with value: 0.313734
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 38 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 38 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 38 with value: 8.916348
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 38 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 38 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 38 with value: 0.921742
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 38 with value: 4.256009
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 38 with value: 6.172556
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 38 with value: 0.250636
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 38 with value: 0.509391
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 38 with value: 2.638631
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 38 with value: 49.738878
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 38 with value: 3.191599
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 39 with value: 3.439507
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 39 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 39 with value: 0.295991
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 39 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 39 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 39 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 39 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 39 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 39 with value: 0.283692
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 39 with value: 0.276906
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 39 with value: 0.319186
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 39 with value: 0.670036
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 39 with value: 0.684022
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 39 with value: 9.783302
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 39 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 39 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 39 with value: 0.269912
+Browser Console: Updating Fars (mapped to Fars Province) at index 39 with value: 9.804288
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 39 with value: 0.260862
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 39 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 39 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 39 with value: 9.062781
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 39 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 39 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 39 with value: 0.906343
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 39 with value: 4.342949
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 39 with value: 5.999127
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 39 with value: 0.237117
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 39 with value: 0.580824
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 39 with value: 2.392814
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 39 with value: 49.616232
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 39 with value: 3.439507
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 40 with value: 3.44042
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 40 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 40 with value: 0.332757
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 40 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 40 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 40 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 40 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 40 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 40 with value: 0.324307
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 40 with value: 0.304165
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 40 with value: 0.282118
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 40 with value: 0.767934
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 40 with value: 0.727224
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 40 with value: 9.126932
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 40 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 40 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 40 with value: 0.233023
+Browser Console: Updating Fars (mapped to Fars Province) at index 40 with value: 9.347511
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 40 with value: 0.299641
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 40 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 40 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 40 with value: 8.782304
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 40 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 40 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 40 with value: 0.95305
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 40 with value: 4.421676
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 40 with value: 4.954475
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 40 with value: 0.269225
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 40 with value: 0.592846
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 40 with value: 1.993048
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 40 with value: 51.853908
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 40 with value: 3.44042
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 41 with value: 2.719506
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 41 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 41 with value: 0.373925
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 41 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 41 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 41 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 41 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 41 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 41 with value: 0.244269
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 41 with value: 0.214962
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 41 with value: 0.417984
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 41 with value: 0.588214
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 41 with value: 0.47118
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 41 with value: 8.879463
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 41 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 41 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 41 with value: 0.320006
+Browser Console: Updating Fars (mapped to Fars Province) at index 41 with value: 9.537368
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 41 with value: 0.325928
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 41 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 41 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 41 with value: 10.691526
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 41 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 41 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 41 with value: 0.762577
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 41 with value: 3.735199
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 41 with value: 7.076027
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 41 with value: 0.292564
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 41 with value: 0.565403
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 41 with value: 2.625825
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 41 with value: 48.968263
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 41 with value: 2.719506
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 42 with value: 0.72053
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 42 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 42 with value: 0.262642
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 42 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 42 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 42 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 42 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 42 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 42 with value: 0.152212
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 42 with value: 0.059396
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 42 with value: 0.412139
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 42 with value: 0.219986
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 42 with value: 0.149581
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 42 with value: 3.344596
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 42 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 42 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 42 with value: 0.221899
+Browser Console: Updating Fars (mapped to Fars Province) at index 42 with value: 9.499117
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 42 with value: 0.069751
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 42 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 42 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 42 with value: 5.298481
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 42 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 42 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 42 with value: 0.456291
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 42 with value: 1.235789
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 42 with value: 6.926831
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 42 with value: 0.05188
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 42 with value: 0.226982
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 42 with value: 0.517803
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 42 with value: 69.950427
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 42 with value: 0.72053
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 43 with value: 0.400316
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 43 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 43 with value: 0.196906
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 43 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 43 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 43 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 43 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 43 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 43 with value: 0.160887
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 43 with value: 0.087619
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 43 with value: 0.252061
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 43 with value: 0.133267
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 43 with value: 0.159436
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 43 with value: 2.130145
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 43 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 43 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 43 with value: 0.160995
+Browser Console: Updating Fars (mapped to Fars Province) at index 43 with value: 7.121993
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 43 with value: 0.047933
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 43 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 43 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 43 with value: 25.841732
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 43 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 43 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 43 with value: 0.394924
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 43 with value: 0.795996
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 43 with value: 6.015841
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 43 with value: 0.030663
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 43 with value: 0.124385
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 43 with value: 0.715196
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 43 with value: 55.119094
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 43 with value: 0.400316
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 44 with value: 1.427401
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 44 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 44 with value: 0.091579
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 44 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 44 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 44 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 44 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 44 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 44 with value: 0.158435
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 44 with value: 0.172692
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 44 with value: 0.022172
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 44 with value: 0.368781
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 44 with value: 0.573767
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 44 with value: 53.226814
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 44 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 44 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 44 with value: 0.011391
+Browser Console: Updating Fars (mapped to Fars Province) at index 44 with value: 2.806715
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 44 with value: 0.010504
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 44 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 44 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 44 with value: 0.073427
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 44 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 44 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 44 with value: 1.747909
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 44 with value: 7.055347
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 44 with value: 0.482905
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 44 with value: 0.074686
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 44 with value: 0.006348
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 44 with value: 0.020061
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 44 with value: 31.049019
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 44 with value: 1.427401
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 45 with value: 0.031134
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 45 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 45 with value: 0.032719
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 45 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 45 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 45 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 45 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 45 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 45 with value: 0
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 45 with value: 0.003635
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 45 with value: 0.028711
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 45 with value: 0
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 45 with value: 0.045117
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 45 with value: 52.281781
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 45 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 45 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 45 with value: 0.043625
+Browser Console: Updating Fars (mapped to Fars Province) at index 45 with value: 1.780485
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 45 with value: 0
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 45 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 45 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 45 with value: 0.05304
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 45 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 45 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 45 with value: 4.260002
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 45 with value: 19.058474
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 45 with value: 0.494421
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 45 with value: 0.032067
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 45 with value: 0
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 45 with value: 0.026101
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 45 with value: 21.706573
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 45 with value: 0.031134
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 46 with value: 0.008972
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 46 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 46 with value: 0
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 46 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 46 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 46 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 46 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 46 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 46 with value: 0
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 46 with value: 0
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 46 with value: 0.034138
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 46 with value: 0.093442
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 46 with value: 0
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 46 with value: 43.418434
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 46 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 46 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 46 with value: 0.068276
+Browser Console: Updating Fars (mapped to Fars Province) at index 46 with value: 6.842689
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 46 with value: 0
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 46 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 46 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 46 with value: 0.200451
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 46 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 46 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 46 with value: 1.585117
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 46 with value: 0.177692
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 46 with value: 1.231373
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 46 with value: 0.008534
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 46 with value: 0
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 46 with value: 0.025603
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 46 with value: 46.305279
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 46 with value: 0.008972
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 47 with value: 0
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 47 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 47 with value: 0
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 47 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 47 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 47 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 47 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 47 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 47 with value: 0
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 47 with value: 0
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 47 with value: 0.030713
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 47 with value: 0.012397
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 47 with value: 0
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 47 with value: 39.300493
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 47 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 47 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 47 with value: 0.02982
+Browser Console: Updating Fars (mapped to Fars Province) at index 47 with value: 16.928811
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 47 with value: 0
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 47 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 47 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 47 with value: 0.0908
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 47 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 47 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 47 with value: 5.812438
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 47 with value: 0.060087
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 47 with value: 0.451767
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 47 with value: 0.06098
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 47 with value: 0
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 47 with value: 0.008711
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 47 with value: 37.204941
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 47 with value: 0
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 48 with value: 0.012783
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 48 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 48 with value: 0.027801
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 48 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 48 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 48 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 48 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 48 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 48 with value: 0.075459
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 48 with value: 0
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 48 with value: 0.012783
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 48 with value: 0
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 48 with value: 0.063544
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 48 with value: 41.885504
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 48 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 48 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 48 with value: 0.074466
+Browser Console: Updating Fars (mapped to Fars Province) at index 48 with value: 4.948265
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 48 with value: 0
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 48 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 48 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 48 with value: 0.029042
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 48 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 48 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 48 with value: 0.749376
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 48 with value: 0.02234
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 48 with value: 0.013404
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 48 with value: 0.048403
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 48 with value: 0.075459
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 48 with value: 0.019361
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 48 with value: 51.179479
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 48 with value: 0.012783
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 49 with value: 0.818293
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 49 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 49 with value: 0.015583
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 49 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 49 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 49 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 49 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 49 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 49 with value: 0
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 49 with value: 0
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 49 with value: 0.015583
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 49 with value: 0.17141
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 49 with value: 0
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 49 with value: 35.970744
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 49 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 49 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 49 with value: 0.45989
+Browser Console: Updating Fars (mapped to Fars Province) at index 49 with value: 6.876381
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 49 with value: 0.077914
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 49 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 49 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 49 with value: 0.521822
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 49 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 49 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 49 with value: 0.366394
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 49 with value: 0.143042
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 49 with value: 0.184995
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 49 with value: 0.140245
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 49 with value: 0.188591
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 49 with value: 0.046748
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 49 with value: 53.695505
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 49 with value: 0.818293
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 50 with value: 0
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 50 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 50 with value: 0
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 50 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 50 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 50 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 50 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 50 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 50 with value: 0
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 50 with value: 0.512132
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 50 with value: 0.07002
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 50 with value: 0
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 50 with value: 0.096951
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 50 with value: 40.438701
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 50 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 50 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 50 with value: 0.243274
+Browser Console: Updating Fars (mapped to Fars Province) at index 50 with value: 3.822365
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 50 with value: 0.017505
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 50 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 50 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 50 with value: 0.907116
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 50 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 50 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 50 with value: 0.429769
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 50 with value: 0.459617
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 50 with value: 0.28771
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 50 with value: 0.157545
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 50 with value: 0
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 50 with value: 0
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 50 with value: 50.582377
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 50 with value: 0
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 51 with value: 0
+Browser Console: Updating North Khorasan (mapped to North Khorasan Province) at index 51 with value: 0
+Browser Console: Updating Kerman (mapped to Kerman Province) at index 51 with value: 0
+Browser Console: Updating Ilam (mapped to Ilam Province) at index 51 with value: 0
+Browser Console: Updating Lorestan (mapped to Lorestan Province) at index 51 with value: 0
+Browser Console: Updating Markazi (mapped to Markazi Province) at index 51 with value: 0
+Browser Console: Updating Chaharmahal and Bakhtiari (mapped to Chahar Mahaal and Bakhtiari Province) at index 51 with value: 0
+Browser Console: Updating Kermanshah (mapped to Kermanshah Province) at index 51 with value: 0
+Browser Console: Updating Hamadan (mapped to Hamadan Province) at index 51 with value: 0
+Browser Console: Updating Qazvin (mapped to Qazvin Province) at index 51 with value: 0.043222
+Browser Console: Updating Gilan (mapped to Gilan Province) at index 51 with value: 0.172888
+Browser Console: Updating Zanjan (mapped to Zanjan Province) at index 51 with value: 0
+Browser Console: Updating Semnan (mapped to Semnan Province) at index 51 with value: 0
+Browser Console: Updating Isfahan (mapped to Isfahan Province) at index 51 with value: 0.639463
+Browser Console: Updating Kohgiluyeh and Boyer-Ahmad (mapped to Kohgiluyeh and Boyer-Ahmad Province) at index 51 with value: 0
+Browser Console: Updating Kurdistan (mapped to Kurdistan Province) at index 51 with value: 0
+Browser Console: Updating West Azerbaijan (mapped to West Azerbaijan Province) at index 51 with value: 0
+Browser Console: Updating Fars (mapped to Fars Province) at index 51 with value: 9.41462
+Browser Console: Updating Bushehr (mapped to Bushehr Province) at index 51 with value: 0
+Browser Console: Updating Ardabil (mapped to Ardabil Province) at index 51 with value: 0
+Browser Console: Updating Golestan (mapped to Golestan Province) at index 51 with value: 0
+Browser Console: Updating Razavi Khorasan (mapped to Razavi Khorasan Province) at index 51 with value: 2.871487
+Browser Console: Updating South Khorasan (mapped to South Khorasan Province) at index 51 with value: 0
+Browser Console: Updating Sistan and Baluchestan (mapped to Sistan and Baluchistan Province) at index 51 with value: 0
+Browser Console: Updating Qom (mapped to Qom Province) at index 51 with value: 0.771345
+Browser Console: Updating Alborz (mapped to Alborz Province) at index 51 with value: 0.043222
+Browser Console: Updating East Azerbaijan (mapped to East Azerbaijan Province) at index 51 with value: 0.280388
+Browser Console: Updating Yazd (mapped to Yazd Province) at index 51 with value: 0.043222
+Browser Console: Updating Hormozgan (mapped to Hormozgan Province) at index 51 with value: 1.221296
+Browser Console: Updating Khuzestan (mapped to Khuzestan Province) at index 51 with value: 3.454429
+Browser Console: Updating Tehran (mapped to Tehran Province) at index 51 with value: 80.957975
+Browser Console: Updating Mazandaran (mapped to Mazandaran Province) at index 51 with value: 0
+An error occurred: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("#map .leaflet-pane .leaflet-tile-container") to be visible
+    25 × locator resolved to hidden <div class="leaflet-tile-container leaflet-zoom-animated">…</div>

@@ -5,16 +5,34 @@ document.addEventListener('DOMContentLoaded', function () {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
-    Promise.all([
-        fetch('provinces.geojson').then(response => response.json()),
-        fetch('data_v1.json').then(response => response.json())
-    ]).then(([geojson, data]) => {
+    fetch('data/')
+        .then(response => response.text())
+        .then(html => {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(html, 'text/html');
+            const links = Array.from(doc.querySelectorAll('a'));
+            const jsonFiles = links
+                .map(link => link.getAttribute('href'))
+                .filter(href => href && href.endsWith('.json'))
+                .sort();
+
+            if (jsonFiles.length === 0) {
+                throw new Error('No JSON file found in the data directory.');
+            }
+            const jsonFilePath = jsonFiles[0];
+            return Promise.all([
+                fetch('provinces.geojson').then(response => response.json()),
+                fetch('data/' + jsonFilePath).then(response => response.json())
+            ]);
+        })
+        .then(([geojson, data]) => {
         console.log("Successfully loaded GeoJSON data:", geojson);
         console.log("Successfully loaded timeseries data:", data);
         const timestamps = data.result.main.timestamps;
         const provinceData = data.result.main;
 
         let geojsonLayer;
+            let hoveredLayer = null;
 
         const provinceNameMapping = {
             "Alborz": "7648907",
@@ -47,12 +65,17 @@ document.addEventListener('DOMContentLoaded', function () {
                             '#FFEDA0';
         }
 
-        function style(feature) {
-            const geoJsonProvinceName = feature.properties.shapeName;
+        function getProvinceValue(geoJsonProvinceName, timestampIndex) {
             const dataProvinceName = provinceNameMapping[geoJsonProvinceName] || geoJsonProvinceName;
-            const dataValues = provinceData[dataProvinceName] || provinceData[geoJsonProvinceName];
-            const value = dataValues ? parseFloat(dataValues[0]) : 0;
-            console.log(`Styling ${geoJsonProvinceName} (mapped to ${dataProvinceName}) with initial value: ${value}`);
+            let dataValues = provinceData[dataProvinceName] || provinceData[geoJsonProvinceName];
+            if (!dataValues) {
+                dataValues = provinceData['other'];
+            }
+            return dataValues ? parseFloat(dataValues[timestampIndex]) : 0;
+        }
+
+        function style(feature) {
+            const value = getProvinceValue(feature.properties.shapeName, 0);
             return {
                 fillColor: getColor(value),
                 weight: 2,
@@ -91,14 +114,17 @@ document.addEventListener('DOMContentLoaded', function () {
             document.getElementById('datetime-display').innerText = new Date(timestamps[timestampIndex]).toLocaleString();
             geojsonLayer.eachLayer((layer) => {
                 const geoJsonProvinceName = layer.feature.properties.shapeName;
-                const dataProvinceName = provinceNameMapping[geoJsonProvinceName] || geoJsonProvinceName;
-                const dataValues = provinceData[dataProvinceName] || provinceData[geoJsonProvinceName];
-                const value = dataValues ? parseFloat(dataValues[timestampIndex]) : 0;
-                console.log(`Updating ${geoJsonProvinceName} (mapped to ${dataProvinceName}) at index ${timestampIndex} with value: ${value}`);
+                const value = getProvinceValue(geoJsonProvinceName, timestampIndex);
                 layer.setStyle({
                     fillColor: getColor(value)
                 });
             });
+
+            if (hoveredLayer) {
+                const geoJsonProvinceName = hoveredLayer.feature.properties.shapeName;
+                const value = getProvinceValue(geoJsonProvinceName, timestampIndex);
+                hoveredLayer.setTooltipContent(`${geoJsonProvinceName}<br>Value: ${value.toFixed(2)}%`);
+            }
         }
 
         const legend = L.control({position: 'bottomright'});
@@ -123,6 +149,7 @@ document.addEventListener('DOMContentLoaded', function () {
             layer.on({
                 mouseover: function (e) {
                     const layer = e.target;
+                        hoveredLayer = layer;
                     layer.setStyle({
                         weight: 5,
                         color: '#666',
@@ -133,15 +160,14 @@ document.addEventListener('DOMContentLoaded', function () {
                         layer.bringToFront();
                     }
                     const geoJsonProvinceName = layer.feature.properties.shapeName;
-                    const dataProvinceName = provinceNameMapping[geoJsonProvinceName] || geoJsonProvinceName;
                     const timestampIndex = slider.value;
-                    const dataValues = provinceData[dataProvinceName] || provinceData[geoJsonProvinceName];
-                    const value = dataValues ? parseFloat(dataValues[timestampIndex]) : 0;
+                    const value = getProvinceValue(geoJsonProvinceName, timestampIndex);
                     layer.bindTooltip(`${geoJsonProvinceName}<br>Value: ${value.toFixed(2)}%`).openTooltip();
                 },
                 mouseout: function (e) {
                     geojsonLayer.resetStyle(e.target);
                     e.target.closeTooltip();
+                        hoveredLayer = null;
                 }
             });
         });

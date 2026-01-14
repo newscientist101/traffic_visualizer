@@ -38,13 +38,10 @@ document.addEventListener('DOMContentLoaded', function () {
             "Zanjan": "111452"
         };
 
-        function getColor(d) {
-            return d > 80 ? '#800026' :
-                   d > 60 ? '#BD0026' :
-                   d > 40 ? '#E31A1C' :
-                   d > 20 ? '#FC4E2A' :
-                   d > 0  ? '#FD8D3C' :
-                            '#FFEDA0';
+        function getGradientColor(value) {
+            const r = Math.round(255 * (1 - value / 100));
+            const g = Math.round(255 * (value / 100));
+            return `rgb(${r},${g},0)`;
         }
 
         function style(feature) {
@@ -54,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const value = dataValues ? parseFloat(dataValues[0]) : 0;
             console.log(`Styling ${geoJsonProvinceName} (mapped to ${dataProvinceName}) with initial value: ${value}`);
             return {
-                fillColor: getColor(value),
+                fillColor: getGradientColor(value),
                 weight: 2,
                 opacity: 1,
                 color: 'white',
@@ -96,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 const value = dataValues ? parseFloat(dataValues[timestampIndex]) : 0;
                 console.log(`Updating ${geoJsonProvinceName} (mapped to ${dataProvinceName}) at index ${timestampIndex} with value: ${value}`);
                 layer.setStyle({
-                    fillColor: getColor(value)
+                    fillColor: getGradientColor(value)
                 });
             });
         }
@@ -104,16 +101,23 @@ document.addEventListener('DOMContentLoaded', function () {
         const legend = L.control({position: 'bottomright'});
 
         legend.onAdd = function (map) {
-            const div = L.DomUtil.create('div', 'info legend'),
-                grades = [0, 20, 40, 60, 80],
-                labels = [];
-
-            for (let i = 0; i < grades.length; i++) {
-                div.innerHTML +=
-                    '<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +
-                    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
-            }
-
+            const div = L.DomUtil.create('div', 'info legend');
+            div.innerHTML = `
+                <div class="legend-gradient"></div>
+                <div class="legend-labels">
+                    <span>0%</span>
+                    <span>10%</span>
+                    <span>20%</span>
+                    <span>30%</span>
+                    <span>40%</span>
+                    <span>50%</span>
+                    <span>60%</span>
+                    <span>70%</span>
+                    <span>80%</span>
+                    <span>90%</span>
+                    <span>100%</span>
+                </div>
+            `;
             return div;
         };
 

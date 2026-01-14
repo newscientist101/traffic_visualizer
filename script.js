@@ -82,19 +82,17 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         function style(feature) {
-            const value = getProvinceValue(feature.properties.shapeName, 0);
-            const fillOpacity = value === 0 ? 0 : 0.7;
             return {
-                fillColor: getGradientColor(value),
                 weight: 2,
                 opacity: 1,
                 color: 'white',
                 dashArray: '3',
-                fillOpacity: fillOpacity
+                className: 'province-' + feature.properties.shapeName.replace(/\s+/g, '-')
             };
         }
 
         geojsonLayer = L.geoJson(geojson, {style: style}).addTo(map);
+        updateMap(0);
 
         const slider = document.getElementById('timeline-slider');
         slider.max = timestamps.length - 1;
@@ -170,12 +168,13 @@ document.addEventListener('DOMContentLoaded', function () {
                     const geoJsonProvinceName = layer.feature.properties.shapeName;
                     const timestampIndex = slider.value;
                     const value = getProvinceValue(geoJsonProvinceName, timestampIndex);
+
                     layer.setStyle({
                         weight: 5,
                         color: '#666',
-                        dashArray: '',
-                        fillOpacity: value === 0 ? 0 : 0.7
+                        dashArray: ''
                     });
+
                     if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
                         layer.bringToFront();
                     }
@@ -184,7 +183,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 mouseout: function (e) {
                     geojsonLayer.resetStyle(e.target);
                     e.target.closeTooltip();
-                        hoveredLayer = null;
+                    hoveredLayer = null;
                 }
             });
         });

@@ -166,19 +166,19 @@ document.addEventListener('DOMContentLoaded', function () {
             layer.on({
                 mouseover: function (e) {
                     const layer = e.target;
-                        hoveredLayer = layer;
+                    hoveredLayer = layer;
+                    const geoJsonProvinceName = layer.feature.properties.shapeName;
+                    const timestampIndex = slider.value;
+                    const value = getProvinceValue(geoJsonProvinceName, timestampIndex);
                     layer.setStyle({
                         weight: 5,
                         color: '#666',
                         dashArray: '',
-                        fillOpacity: 0.7
+                        fillOpacity: value === 0 ? 0 : 0.7
                     });
                     if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
                         layer.bringToFront();
                     }
-                    const geoJsonProvinceName = layer.feature.properties.shapeName;
-                    const timestampIndex = slider.value;
-                    const value = getProvinceValue(geoJsonProvinceName, timestampIndex);
                     layer.bindTooltip(`${geoJsonProvinceName}<br>Value: ${value.toFixed(2)}%`).openTooltip();
                 },
                 mouseout: function (e) {

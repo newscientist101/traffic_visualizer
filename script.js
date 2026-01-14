@@ -7,12 +7,48 @@ document.addEventListener('DOMContentLoaded', function () {
 
     Promise.all([
         fetch('provinces.geojson').then(response => response.json()),
-        fetch('/data_v1.json').then(response => response.json())
+        fetch('data_v1.json').then(response => response.json())
     ]).then(([geojson, data]) => {
+        console.log("Successfully loaded GeoJSON data:", geojson);
+        console.log("Successfully loaded timeseries data:", data);
         const timestamps = data.result.main.timestamps;
         const provinceData = data.result.main;
 
         let geojsonLayer;
+
+        const provinceNameMapping = {
+            "Alborz": "Alborz Province",
+            "Ardabil": "Ardabil Province",
+            "Bushehr": "Bushehr Province",
+            "Chaharmahal and Bakhtiari": "Chahar Mahaal and Bakhtiari Province",
+            "East Azerbaijan": "East Azerbaijan Province",
+            "Fars": "Fars Province",
+            "Gilan": "Gilan Province",
+            "Golestan": "Golestan Province",
+            "Hamadan": "Hamadan Province",
+            "Hormozgan": "Hormozgan Province",
+            "Ilam": "Ilam Province",
+            "Isfahan": "Isfahan Province",
+            "Kerman": "Kerman Province",
+            "Kermanshah": "Kermanshah Province",
+            "Khuzestan": "Khuzestan Province",
+            "Kohgiluyeh and Boyer-Ahmad": "Kohgiluyeh and Boyer-Ahmad Province",
+            "Kurdistan": "Kurdistan Province",
+            "Lorestan": "Lorestan Province",
+            "Markazi": "Markazi Province",
+            "Mazandaran": "Mazandaran Province",
+            "North Khorasan": "North Khorasan Province",
+            "Qazvin": "Qazvin Province",
+            "Qom": "Qom Province",
+            "Razavi Khorasan": "Razavi Khorasan Province",
+            "Semnan": "Semnan Province",
+            "Sistan and Baluchestan": "Sistan and Baluchistan Province",
+            "South Khorasan": "South Khorasan Province",
+            "Tehran": "Tehran Province",
+            "West Azerbaijan": "West Azerbaijan Province",
+            "Yazd": "Yazd Province",
+            "Zanjan": "Zanjan Province"
+        };
 
         function getColor(d) {
             return d > 80 ? '#800026' :
@@ -24,8 +60,11 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         function style(feature) {
-            const provinceName = feature.properties.shapeName;
-            const value = provinceData[provinceName] ? parseFloat(provinceData[provinceName][0]) : 0;
+            const geoJsonProvinceName = feature.properties.shapeName;
+            const dataProvinceName = provinceNameMapping[geoJsonProvinceName] || geoJsonProvinceName;
+            const dataValues = provinceData[dataProvinceName] || provinceData[geoJsonProvinceName];
+            const value = dataValues ? parseFloat(dataValues[0]) : 0;
+            console.log(`Styling ${geoJsonProvinceName} (mapped to ${dataProvinceName}) with initial value: ${value}`);
             return {
                 fillColor: getColor(value),
                 weight: 2,
@@ -63,8 +102,11 @@ document.addEventListener('DOMContentLoaded', function () {
         function updateMap(timestampIndex) {
             document.getElementById('datetime-display').innerText = new Date(timestamps[timestampIndex]).toLocaleString();
             geojsonLayer.eachLayer((layer) => {
-                const provinceName = layer.feature.properties.shapeName;
-                const value = provinceData[provinceName] ? parseFloat(provinceData[provinceName][timestampIndex]) : 0;
+                const geoJsonProvinceName = layer.feature.properties.shapeName;
+                const dataProvinceName = provinceNameMapping[geoJsonProvinceName] || geoJsonProvinceName;
+                const dataValues = provinceData[dataProvinceName] || provinceData[geoJsonProvinceName];
+                const value = dataValues ? parseFloat(dataValues[timestampIndex]) : 0;
+                console.log(`Updating ${geoJsonProvinceName} (mapped to ${dataProvinceName}) at index ${timestampIndex} with value: ${value}`);
                 layer.setStyle({
                     fillColor: getColor(value)
                 });
@@ -102,10 +144,12 @@ document.addEventListener('DOMContentLoaded', function () {
                     if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
                         layer.bringToFront();
                     }
-                    const provinceName = layer.feature.properties.shapeName;
+                    const geoJsonProvinceName = layer.feature.properties.shapeName;
+                    const dataProvinceName = provinceNameMapping[geoJsonProvinceName] || geoJsonProvinceName;
                     const timestampIndex = slider.value;
-                    const value = provinceData[provinceName] ? parseFloat(provinceData[provinceName][timestampIndex]) : 0;
-                    layer.bindTooltip(`${provinceName}<br>Value: ${value.toFixed(2)}%`).openTooltip();
+                    const dataValues = provinceData[dataProvinceName] || provinceData[geoJsonProvinceName];
+                    const value = dataValues ? parseFloat(dataValues[timestampIndex]) : 0;
+                    layer.bindTooltip(`${geoJsonProvinceName}<br>Value: ${value.toFixed(2)}%`).openTooltip();
                 },
                 mouseout: function (e) {
                     geojsonLayer.resetStyle(e.target);
@@ -114,5 +158,8 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         });
 
-    }).catch(error => console.error('Error loading data:', error));
+    }).catch(error => {
+        console.error('Error loading data:', error);
+        console.error('Failed to load GeoJSON or timeseries data. Please check file paths and network connectivity.');
+    });
 });

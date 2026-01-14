@@ -44,7 +44,7 @@ body {
 
 .legend-gradient {
     height: 20px;
-    background: linear-gradient(to right, red, green);
+    background: linear-gradient(to right, #FFFFFF, #FFFF00, #008000);
     margin-bottom: 5px;
 }
 

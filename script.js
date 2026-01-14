@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     Promise.all([
         fetch('provinces.geojson').then(response => response.json()),
-        fetch('data_v1.json').then(response => response.json())
+        fetch('/data_v1.json').then(response => response.json())
     ]).then(([geojson, data]) => {
         const timestamps = data.result.main.timestamps;
         const provinceData = data.result.main;

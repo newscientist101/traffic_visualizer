@@ -82,18 +82,17 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         function style(feature) {
-            const value = getProvinceValue(feature.properties.shapeName, 0);
             return {
-                fillColor: getGradientColor(value),
                 weight: 2,
                 opacity: 1,
                 color: 'white',
                 dashArray: '3',
-                fillOpacity: 0.7
+                className: 'province-' + feature.properties.shapeName.replace(/\s+/g, '-')
             };
         }
 
         geojsonLayer = L.geoJson(geojson, {style: style}).addTo(map);
+        updateMap(0);
 
         const slider = document.getElementById('timeline-slider');
         slider.max = timestamps.length - 1;
@@ -122,8 +121,10 @@ document.addEventListener('DOMContentLoaded', function () {
             geojsonLayer.eachLayer((layer) => {
                 const geoJsonProvinceName = layer.feature.properties.shapeName;
                 const value = getProvinceValue(geoJsonProvinceName, timestampIndex);
+                const fillOpacity = value === 0 ? 0 : 0.7;
                 layer.setStyle({
-                    fillColor: getGradientColor(value)
+                    fillColor: getGradientColor(value),
+                    fillOpacity: fillOpacity
                 });
             });
 
@@ -163,25 +164,26 @@ document.addEventListener('DOMContentLoaded', function () {
             layer.on({
                 mouseover: function (e) {
                     const layer = e.target;
-                        hoveredLayer = layer;
-                    layer.setStyle({
-                        weight: 5,
-                        color: '#666',
-                        dashArray: '',
-                        fillOpacity: 0.7
-                    });
-                    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-                        layer.bringToFront();
-                    }
+                    hoveredLayer = layer;
                     const geoJsonProvinceName = layer.feature.properties.shapeName;
                     const timestampIndex = slider.value;
                     const value = getProvinceValue(geoJsonProvinceName, timestampIndex);
+
+                    layer.setStyle({
+                        weight: 5,
+                        color: '#666',
+                        dashArray: ''
+                    });
+
+                    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                        layer.bringToFront();
+                    }
                     layer.bindTooltip(`${geoJsonProvinceName}<br>Value: ${value.toFixed(2)}%`).openTooltip();
                 },
                 mouseout: function (e) {
                     geojsonLayer.resetStyle(e.target);
                     e.target.closeTooltip();
-                        hoveredLayer = null;
+                    hoveredLayer = null;
                 }
             });
         });
